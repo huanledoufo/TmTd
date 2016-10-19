@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">我要吐槽</string>
+<string name="netutils_error_ip">获取IP失败！</string>
+</resources>
